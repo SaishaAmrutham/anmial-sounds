@@ -1,0 +1,37 @@
+body{
+    font-family: 'Estonia', cursive;
+    background-color: rgb(201, 166, 255);
+}
+
+.header_div{
+    background-color: lavender;
+    color: mediumpurple;
+}
+
+.header_div p{
+    font-family:font-family: 'Fjalla One', sans-seri ;
+    color:indigo ;
+    letter-spacing:2px ;
+    font-size:12px ;
+    font-weight:bold ;
+}
+
+.main_div button{
+    font-family:cursive;
+    margin-top: 30px;
+    width: 130px;
+    font-weight: bolder;
+    letter-spacing: 3px;
+}
+
+.copy_right_footer{
+    position: fixed;
+    color: rgb(88, 82, 132);
+    bottom: 0;
+    width: 100%;
+    font-size: 18px;
+    background-color: rgb(220, 204, 255);
+    line-height: 3;
+    text-align: center;
+    text-shadow: 5px 5px 5px royalblue;
+}
